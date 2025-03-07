@@ -1,6 +1,6 @@
 ## Ldaptive [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.ldaptive/ldaptive/badge.svg?style=flat)](https://maven-badges.herokuapp.com/maven-central/org.ldaptive/ldaptive) 
 
-This project is dual licensed under both the LGPL and Apache 2.
+* LGPL and Apache 2 license
 
 ### Building
 ```sh
@@ -10,4 +10,5 @@ cd ldaptive
 ```
 
 ### Documentation
-See the website: http://www.ldaptive.org
+* [website](http://www.ldaptive.org)
+* [some public git repo hosting it](https://github.com/vt-middleware/ldaptive/issues/280) ❓
