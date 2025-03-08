@@ -6,15 +6,20 @@ redirect_from: "/home/"
 ---
 
 # LDAP library for Java.
-Ldaptive is a simple, extensible Java API for interacting with LDAP servers. It was designed to provide easy LDAP integration for application developers.
+* Ldaptive
+  * == 👀Java API -- for interacting with -- LDAP servers 👀/
+    * simple
+    * extensible 
+  * goal
+    * application developers -- can easily integrate with -- LDAP 
 
 ## Features
 * Netty based asynchronous networking
 * Reactive API
 * Connection pooling
-* Authentication API with support for password policy
-* JAAS modules for authentication and authorization
-* SSL/startTLS support with easy configuration of trust and key material
+* Authentication API / support for password policy
+* JAAS modules -- for -- authenticating & authorizing
+* SSL/startTLS / easy configuration -- of -- trust & key material
 * Input/output of LDIF
 * Supported controls:
   * Authorization Identity (RFC 3829)
@@ -44,6 +49,7 @@ Ldaptive is a simple, extensible Java API for interacting with LDAP servers. It 
 {% endhighlight %}
 
 ### Binding
+// TODO:
 {% highlight java %}
 {% include source/home/3.java %}
 {% endhighlight %}
