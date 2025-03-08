@@ -10,5 +10,6 @@ cd ldaptive
 ```
 
 ### Documentation
-* [website](http://www.ldaptive.org)
-* [some public git repo hosting it](https://github.com/vt-middleware/ldaptive/issues/280) ❓
+* [hosted | "gh-pages" branch](https://github.com/vt-middleware/ldaptive/tree/gh-pages)
+  * [issue asked & replied](https://github.com/vt-middleware/ldaptive/issues/280)
+  * ⚠️SWITCH to MY "gh-pages" branch ⚠️
